@@ -1,0 +1,31 @@
+filename = 'EternalChristmas-1.0.0-1.21.1.jar'
+name = 'Eternal Christmas'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.0-1.21.1'
+
+[download]
+hash = '9d84df04af896fe23de61af75949a424fa24d04698442726deb68939dbf6406abe5b8172bc66fed0a6f2f296ba8baac689ef95bcbe1004fc7684f2d34ab62a9d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fwJZYHxX/versions/RHvhkRW8/EternalChristmas-1.0.0-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'fwJZYHxX'
+version = 'RHvhkRW8'
